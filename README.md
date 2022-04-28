@@ -22,6 +22,6 @@
   
 </div>
   
-  ### Atualmente estudando..
+<!--   ### Atualmente estudando..
   
-  <img align="center" alt="MarkJS" height="400" width="1250" src="https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg">
+  <img align="center" alt="MarkJS" height="400" width="1250" src="https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"> -->
