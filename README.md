@@ -1,9 +1,9 @@
 ## Olá, eu sou o Marcos
 
 <div align="center">
-  <a href="https://github.com/MarkGarOliver?tab=repositories">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=markgaroliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markgaroliver&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/MarkOliv?tab=repositories">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=markoliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markoliv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>
